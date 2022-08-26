@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 26 19:39:51 GMT 2022","Fri Aug 26 19:40:01 GMT 2022","10087","","com.github.AllureReportTest","","com.github.AllureReportTest","lambdaStepsIssueSearch","Issue search with lambda steps",""
+"passed","Fri Aug 26 19:40:01 GMT 2022","Fri Aug 26 19:40:05 GMT 2022","3361","","com.github.AllureReportTest","","com.github.AllureReportTest","issueSearchWithSteps","Issue search with steps",""
+"passed","Fri Aug 26 19:40:05 GMT 2022","Fri Aug 26 19:40:08 GMT 2022","3104","","com.github.AllureReportTest","","com.github.AllureReportTest","pureSelenideIssueSearch","Pure Selenide issue search",""
