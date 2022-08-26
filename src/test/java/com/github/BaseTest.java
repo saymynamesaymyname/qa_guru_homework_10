@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeAll;
 public class BaseTest {
 
     @BeforeAll
-    void setup() {
+    public static void setup() {
         SelenideLogger.addListener("allure", new AllureSelenide());
     }
 }
