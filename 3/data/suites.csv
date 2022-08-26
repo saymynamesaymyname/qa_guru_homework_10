@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Aug 26 17:53:29 GMT 2022","Fri Aug 26 17:53:29 GMT 2022","1","","com.github.AllureReportTest","","com.github.AllureReportTest","","AllureReportTest",""
